@@ -3,7 +3,9 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../../subsubProject1/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../subsubProject1/src/main" />
+    <content url="file://$MODULE_DIR$/../../../subsubProject1/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../subsubProject1/src/main/java" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-math3:3.6.1" level="project" />
