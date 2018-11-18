@@ -8,5 +8,4 @@ test {
 
 dependencies {
     implementation project(':subsubProject1')
-    testImplementation 'org.testng:testng:6.10'
 }

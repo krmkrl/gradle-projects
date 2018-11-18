@@ -4,4 +4,8 @@ subprojects {
     repositories {
         mavenCentral()
     }
+
+    dependencies {
+        testImplementation 'org.testng:testng:6.10'
+    }
 }
