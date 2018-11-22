@@ -4,10 +4,16 @@
     <bytecodeTargetLevel>
       <module name="mainProject1_main" target="1.8" />
       <module name="mainProject1_test" target="1.8" />
+      <module name="mainProject2_main" target="1.8" />
+      <module name="mainProject2_test" target="1.8" />
       <module name="subProject1_main" target="1.8" />
       <module name="subProject1_test" target="1.8" />
+      <module name="subProject2_main" target="1.8" />
+      <module name="subProject2_test" target="1.8" />
       <module name="subsubProject1_main" target="1.8" />
       <module name="subsubProject1_test" target="1.8" />
+      <module name="subsubProject2_main" target="1.8" />
+      <module name="subsubProject2_test" target="1.8" />
       <module name="subsubsubSharedProject_main" target="1.8" />
       <module name="subsubsubSharedProject_test" target="1.8" />
     </bytecodeTargetLevel>

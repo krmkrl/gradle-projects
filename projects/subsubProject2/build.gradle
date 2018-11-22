@@ -1,0 +1,11 @@
+plugins {
+    id 'java-library'
+}
+
+test {
+    useTestNG()
+}
+
+dependencies {
+    implementation project(':subsubsubSharedProject')
+}

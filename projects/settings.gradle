@@ -1,4 +1,7 @@
 include 'mainProject1'
+include 'mainProject2'
 include 'subProject1'
+include 'subProject2'
 include 'subsubProject1'
+include 'subsubProject2'
 include 'subsubsubSharedProject'

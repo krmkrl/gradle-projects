@@ -5,13 +5,22 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainProject1/mainProject1.iml" filepath="$PROJECT_DIR$/.idea/modules/mainProject1/mainProject1.iml" group="mainProject1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainProject1/mainProject1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mainProject1/mainProject1_main.iml" group="mainProject1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainProject1/mainProject1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mainProject1/mainProject1_test.iml" group="mainProject1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainProject2/mainProject2.iml" filepath="$PROJECT_DIR$/.idea/modules/mainProject2/mainProject2.iml" group="mainProject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainProject2/mainProject2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mainProject2/mainProject2_main.iml" group="mainProject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainProject2/mainProject2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mainProject2/mainProject2_test.iml" group="mainProject2" />
       <module fileurl="file://$PROJECT_DIR$/projects.iml" filepath="$PROJECT_DIR$/projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/subProject1/subProject1.iml" filepath="$PROJECT_DIR$/.idea/modules/subProject1/subProject1.iml" group="subProject1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/subProject1/subProject1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subProject1/subProject1_main.iml" group="subProject1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/subProject1/subProject1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subProject1/subProject1_test.iml" group="subProject1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subProject2/subProject2.iml" filepath="$PROJECT_DIR$/.idea/modules/subProject2/subProject2.iml" group="subProject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subProject2/subProject2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subProject2/subProject2_main.iml" group="subProject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subProject2/subProject2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subProject2/subProject2_test.iml" group="subProject2" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/subsubProject1/subsubProject1.iml" filepath="$PROJECT_DIR$/.idea/modules/subsubProject1/subsubProject1.iml" group="subsubProject1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/subsubProject1/subsubProject1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subsubProject1/subsubProject1_main.iml" group="subsubProject1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/subsubProject1/subsubProject1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subsubProject1/subsubProject1_test.iml" group="subsubProject1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subsubProject2/subsubProject2.iml" filepath="$PROJECT_DIR$/.idea/modules/subsubProject2/subsubProject2.iml" group="subsubProject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subsubProject2/subsubProject2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subsubProject2/subsubProject2_main.iml" group="subsubProject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subsubProject2/subsubProject2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subsubProject2/subsubProject2_test.iml" group="subsubProject2" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/subsubsubSharedProject/subsubsubSharedProject.iml" filepath="$PROJECT_DIR$/.idea/modules/subsubsubSharedProject/subsubsubSharedProject.iml" group="subsubsubSharedProject" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/subsubsubSharedProject/subsubsubSharedProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subsubsubSharedProject/subsubsubSharedProject_main.iml" group="subsubsubSharedProject" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/subsubsubSharedProject/subsubsubSharedProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subsubsubSharedProject/subsubsubSharedProject_test.iml" group="subsubsubSharedProject" />

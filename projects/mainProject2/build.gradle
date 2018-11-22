@@ -1,0 +1,8 @@
+apply plugin: 'application'
+
+dependencies {
+    implementation 'log4j:log4j:1.2.17'
+    implementation project(':subProject2')
+}
+
+mainClassName = 'AnotherApp'
